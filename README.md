@@ -21,5 +21,5 @@ Use the search bar to locate tasks instantly.
 Clean, responsive UI that looks great on all devices.
 🛠️ Tech Stack
 Backend: Django (Python Framework)
-Frontend: HTML, CSS, JavaScript
+Frontend: HTML, CSS
 Database: SQLite (easily upgradeable to PostgreSQL/MySQL)
