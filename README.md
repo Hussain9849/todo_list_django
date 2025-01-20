@@ -1,4 +1,4 @@
-# 📝 To-Do Lst App  
+# 📝 To-Do List App  
 Your ultimate productivity buddy! This app helps you manage your daily tasks with ease—add, update, delete, and mark them as done, all in one convenient place.  
 
 ---
